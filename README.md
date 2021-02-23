@@ -9,7 +9,6 @@
     choco install python --params "/InstallDir:C:\tools\Python3" -y
     choco install winrar --params "/English" -y
     choco install putty.install -y
-    choco install teamviewer -y
     choco install slack -y
     choco install authy-desktop -y
     choco install whatsapp -y
@@ -19,10 +18,8 @@
     choco install microsoftazurestorageexplorer -y
     choco install azure-functions-core-tools -y
     choco install azure-data-studio -y
-    
     choco install awscli -y
     choco install discord.install -y
-    choco install steam -y
     choco install ds4windows -y
     choco install heidisql -y
     choco install bulkrenameutility -y
@@ -56,3 +53,5 @@
 - Apache
 - Visual Studio
 - Netflix
+- Steam
+- TeamViewer
