@@ -31,7 +31,6 @@
     choco install speedtest -y
     choco install googleearthpro -y
     choco install mongodb-compass -y
-    choco install powerbi -y
     choco install nordvpn -y
     choco install fontbase -y
 
@@ -55,3 +54,4 @@
 - Netflix
 - Steam
 - TeamViewer
+- PowerBI
