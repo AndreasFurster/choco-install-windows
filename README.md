@@ -1,6 +1,5 @@
 ﻿# Choco install Windows
 
-    choco install microsoft-edge -y
     choco install vscode -y
     choco install adobereader -y
     choco install googlechrome -y
