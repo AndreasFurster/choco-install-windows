@@ -18,7 +18,7 @@
     choco install azure-cosmosdb-emulator -y
     choco install microsoftazurestorageexplorer -y
     choco install azure-functions-core-tools -y
-    
+    choco install azure-data-studio -y
     
 
 
