@@ -38,8 +38,8 @@
 
 ## Custom installs
 
-- Git (C:/tools/git)
-- NodeJS (C:/tools/nodejs)
+- Git (C:/Tools/git)
+- NodeJS (NVM symlink to C:/Tools/nodejs)
 - Microsoft Office 
 - Affinity Designer
 - Affinity Photo
