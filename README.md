@@ -10,6 +10,16 @@
     choco install winrar --params "/English" -y
     choco install putty.install -y
     choco install teamviewer -y
+    choco install slack -y
+    choco install authy-desktop -y
+    choco install whatsapp -y
+    choco install spotify -y
+    choco install azure-cli -y
+    choco install azure-cosmosdb-emulator -y
+    choco install microsoftazurestorageexplorer -y
+    choco install azure-functions-core-tools -y
+    
+    
 
 
 Maybe:
@@ -24,10 +34,7 @@ choco install php --package-parameters='"/DontAddToPath /ThreadSafe /InstallDir:
 - Affinity Designer
 - Affinity Photo
 - Affinity Publisher
-- Slack
 - Speedtest
-- spotify
-- WhatsApp
 - WhatsApp Business
 - Windows Terminal
 
@@ -35,7 +42,6 @@ choco install php --package-parameters='"/DontAddToPath /ThreadSafe /InstallDir:
 - Azure Data Studio
 - Azure Cosmos Emulator
 - Azure Func cli
-- Authy
 - Aws CLI
 - Balsamiq
 - Bulk Rename Utility
