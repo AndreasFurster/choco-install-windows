@@ -20,23 +20,23 @@
     choco install azure-functions-core-tools -y
     choco install azure-data-studio -y
     
-    choco install awscli
-    choco install discord.install
-    choco install steam
-    choco install ds4windows
-    choco install heidisql
-    choco install bulkrenameutility
-    choco install epicgameslauncher
-    choco install imageresizerapp
-    choco install fiddler
-    choco install gitkraken
-    choco install gh
-    choco install speedtest
-    choco install googleearthpro
-    choco install mongodb-compass
-    choco install powerbi
-    choco install nordvpn
-    choco install fontbase
+    choco install awscli -y
+    choco install discord.install -y
+    choco install steam -y
+    choco install ds4windows -y
+    choco install heidisql -y
+    choco install bulkrenameutility -y
+    choco install epicgameslauncher -y
+    choco install imageresizerapp -y
+    choco install fiddler -y
+    choco install gitkraken -y
+    choco install gh -y
+    choco install speedtest -y
+    choco install googleearthpro -y
+    choco install mongodb-compass -y
+    choco install powerbi -y
+    choco install nordvpn -y
+    choco install fontbase -y
 
 
 
