@@ -20,10 +20,24 @@
     choco install azure-functions-core-tools -y
     choco install azure-data-studio -y
     
+    choco install awscli
+    choco install discord.install
+    choco install steam
+    choco install ds4windows
+    choco install heidisql
+    choco install bulkrenameutility
+    choco install epicgameslauncher
+    choco install imageresizerapp
+    choco install fiddler
+    choco install gitkraken
+    choco install gh
+    choco install speedtest
+    choco install googleearthpro
+    choco install mongodb-compass
+    choco install powerbi
+    choco install nordvpn
+    choco install fontbase
 
-
-Maybe:
-choco install php --package-parameters='"/DontAddToPath /ThreadSafe /InstallDir:C:\tools\php8.0"'-y
 
 
 ## Custom installs
@@ -34,32 +48,11 @@ choco install php --package-parameters='"/DontAddToPath /ThreadSafe /InstallDir:
 - Affinity Designer
 - Affinity Photo
 - Affinity Publisher
-- Speedtest
 - WhatsApp Business
 - Windows Terminal
-
-- Azure CLI
-- Azure Data Studio
-- Azure Cosmos Emulator
-- Azure Func cli
-- Aws CLI
 - Balsamiq
-- Bulk Rename Utility
-- Discord
-- Steam + games
-- Epic
-- Fiddler
-- Fontbase
-- Gitkraken
-- GitHub CLI
-- Google Earth
 - Ubuntu
-- HeidiSQL
-- Image Resizer for Windows
 - Java
 - Apache
 - Visual Studio
-- Mongo Compass
 - Netflix
-- NordVPN
-- PowerBI
