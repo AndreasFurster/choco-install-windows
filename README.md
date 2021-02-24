@@ -1,5 +1,6 @@
 ﻿# Install Windows
 
+    choco install chocolateygui -y
     choco install vscode -y
     choco install adobereader -y
     choco install googlechrome -y
