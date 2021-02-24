@@ -16,7 +16,6 @@
     choco install azure-cli -y
     choco install azure-cosmosdb-emulator -y
     choco install microsoftazurestorageexplorer -y
-    choco install azure-functions-core-tools -y
     choco install azure-data-studio -y
     choco install awscli -y
     choco install discord.install -y
@@ -55,3 +54,4 @@
 - Steam
 - TeamViewer
 - PowerBI
+- Azure Functions Core Tool
