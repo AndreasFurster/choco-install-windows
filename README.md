@@ -53,5 +53,5 @@
 - Netflix
 - Steam
 - TeamViewer
-- PowerBI
-- Azure Functions Core Tool
+- [PowerBI](https://powerbi.microsoft.com/nl-nl/desktop/)
+- [Azure Functions Core Tools 64x](https://docs.microsoft.com/nl-nl/azure/azure-functions/functions-run-local?tabs=windows%2Ccsharp%2Cbash#version-3x-and-2x)
