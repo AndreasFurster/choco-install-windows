@@ -1,4 +1,4 @@
-﻿# Choco install Windows
+﻿# Install Windows
 
     choco install vscode -y
     choco install adobereader -y
