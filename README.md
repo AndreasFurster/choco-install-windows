@@ -17,6 +17,7 @@
     choco install nordvpn -y
     choco install fontbase -y
     choco install speedtest -y
+    choco install hashtab -y
     
     # Media
     choco install slack -y
@@ -38,6 +39,8 @@
     choco install azure-data-studio -y
     choco install awscli -y
     choco install mongodb-compass -y
+    choco install composer -y # PHP required
+    
     
     # Gaming
     choco install discord.install -y
