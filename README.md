@@ -1,5 +1,7 @@
 ﻿# Install Windows
  
+ [Install Chocolatey](https://chocolatey.org/install)
+ 
     # General
     choco install chocolateygui -y
     choco install adobereader -y
